@@ -7,7 +7,7 @@ color3 = "black";
 color4 = "green";
 ctx.beginPath();
 ctx.strokeStyle = color;
-ctx.lineWidth = 2;
+ctx.lineWidth = 4;
 
 
 canvas.addEventListener("mousedown", my_mousedown);
